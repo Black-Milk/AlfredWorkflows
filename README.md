@@ -10,3 +10,5 @@ A repository for some very useful workflows:
 * The Toggleflux workflow enables you to simply disable or enable flux for a period of 1 hour. 
 
 * The Flux Lighting Option workflow lets you select lighting options such as Tungsten, Candle, Fluorescent, etc.
+ 
+* Added Retina Display Resolution Swap. This enables the user to switch between 1680*1050 and 1920*1200 resolution.
